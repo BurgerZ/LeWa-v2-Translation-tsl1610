@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>:\'(</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Happy</item>
+        <item>Sad</item>
+        <item>Winking</item>
+        <item>Tongue sticking out</item>
+        <item>Surprised</item>
+        <item>Kissing</item>
+        <item>Yelling</item>
+        <item>Cool</item>
+        <item>Money mouth</item>
+        <item>Foot in mouth</item>
+        <item>Embarrassed</item>
+        <item>Angel</item>
+        <item>Undecided</item>
+        <item>Crying</item>
+        <item>Lips are sealed</item>
+        <item>Laughing</item>
+        <item>Confused</item>
+    </string-array>
+    <array name="pref_mms_notification_vibrate_pattern_entries">
+        <item>Нормальная</item>
+        <item>Средняя</item>
+        <item>Долгая</item>
+        <item>Много коротких</item>
+        <item>Много длинных</item>
+        <item>@string/pref_mms_custom_option</item>
+    </array>
+    <string-array name="entries_vm_button">
+        <item>Добавить в контакты</item>
+        <item>СМС/ММС</item>
+        <item>Голосовая почта</item>
+    </string-array>
+    <string-array name="entryvalues_numbers">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="vm_handlers">
+        <item>Google Voice/com.google.android.apps.googlevoice/.SplashActivity</item>
+        <item>HulloMail UK Visual Voicemail/com.hullomail.android.messaging/.HulloMail</item>
+        <item>HulloMail US Visual Voicemail/com.hullomail.android.messaging.us/.HulloMail</item>
+        <item>PhoneFusion Visual Voicemail/com.phonefusion.voicemailplus.android/.VoicemailPlus</item>
+        <item>T-Mobile Visual Voicemail/com.oz.mobile.android.voicemail.application/.application</item>
+        <item>YouMail Visual Voicemail/com.loadedbanana.android.youmail/.activity.MessageList</item>
+    </string-array>
+    <string-array name="view_contact_pic_sizes">
+        <item>Малый (По умолчанию)</item>
+        <item>Средний</item>
+        <item>Большой</item>
+        <item>Очень большой</item>
+    </string-array>
+    <string-array name="view_contact_pic_sizes_values">
+        <item>78</item>
+        <item>100</item>
+        <item>116</item>
+        <item>128</item>
+    </string-array>
+    <string-array name="view_data_font_sizes">
+        <item>Малый (По умолчанию)</item>
+        <item>Средний</item>
+        <item>Большой</item>
+        <item>Очень большой</item>
+    </string-array>
+    <string-array name="quickreply_sms">
+        <item>Получено!</item>
+        <item>Спасибо!</item>
+        <item>Да пошел ты!</item>
+        <item>Занят...Позвоню позже...</item>
+        <item>Поехали по бабам.</item>
+        <item>Время бухать...Ты в курсе!</item>
+        <item>Какого хрена?</item>
+        <item>Привет, это я.</item>
+        <item>Набери меня.</item>
+        <item>Зашибись!</item>
+        <item>Ну и...?</item>
+        <item>Мои поздравления!</item>
+    </string-array>
+    <string-array name="ip_call_location_provinces">
+        <item>BeiJing</item>
+        <item>ShangHai</item>
+        <item>TianJin</item>
+        <item>ChongQing</item>
+        <item>AnHui</item>
+        <item>FuJian</item>
+        <item>GanSu</item>
+        <item>GuangDong</item>
+        <item>GuangXi</item>
+        <item>GuiZhou</item>
+        <item>HaiNan</item>
+        <item>HeBei</item>
+        <item>HeNan</item>
+        <item>HeiLongJiang</item>
+        <item>HuBei</item>
+        <item>HuNan</item>
+        <item>JiLin</item>
+        <item>JiangXu</item>
+        <item>JiangXi</item>
+        <item>LiaoNing</item>
+        <item>NeiMengGu</item>
+        <item>NingXia</item>
+        <item>QingHai</item>
+        <item>ShanDong</item>
+        <item>Shan1Xi</item>
+        <item>Shan3Xi</item>
+        <item>SiChuan</item>
+        <item>XiZang</item>
+        <item>XinJiang</item>
+        <item>YunNan</item>
+        <item>ZheJiang</item>
+    </string-array>
+    <string-array name="ip_call_location_anhui_cities">
+        <item>HeFei</item>
+        <item>AnQing</item>
+        <item>BengBu</item>
+        <item>ChaoHu</item>
+        <item>ChiZhou</item>
+        <item>ChuZhou</item>
+        <item>FuYang/HaoZhou</item>
+        <item>HuaiBei</item>
+        <item>HuaiNan</item>
+        <item>HuangShan</item>
+        <item>LuAn</item>
+        <item>MaAnShan</item>
+        <item>SuZhou</item>
+        <item>TongLing</item>
+        <item>WuHu</item>
+        <item>XuanCheng</item>
+    </string-array>
+    <string-array name="ip_call_location_fujian_cities">
+        <item>FuZhou</item>
+        <item>LongYan</item>
+        <item>NanPing</item>
+        <item>NingDe</item>
+        <item>PuTian</item>
+        <item>QuanZhou</item>
+        <item>SanMing</item>
+        <item>XiaMen</item>
+        <item>ZhangZhou</item>
+    </string-array>
+    <string-array name="ip_call_location_gansu_cities">
+        <item>LanZhou</item>
+        <item>BaiYin</item>
+        <item>DingXi</item>
+        <item>GanNan</item>
+        <item>JiaYuGuan/JiuQuan</item>
+        <item>JinChan/WuWei</item>
+        <item>LinXia</item>
+        <item>LongNan</item>
+        <item>PingLiang</item>
+        <item>QingYang</item>
+        <item>TianShui</item>
+        <item>ZhangYe</item>
+    </string-array>
+    <string-array name="ip_call_location_guangdong_cities">
+        <item>GuangZhou</item>
+        <item>ChaoZhou</item>
+        <item>DongGuan</item>
+        <item>FoShan</item>
+        <item>HeYuan</item>
+        <item>HuiZhou</item>
+        <item>JiangMen</item>
+        <item>JieYang</item>
+        <item>MaoMing</item>
+        <item>MeiZhou</item>
+        <item>QingYuan</item>
+        <item>ShanTou</item>
+        <item>ShanWei</item>
+        <item>ShaoGuan</item>
+        <item>ShenZhen</item>
+        <item>Янцзян</item>
+        <item>Yunfu</item>
+        <item>Zhanjiang</item>
+        <item>Чжаоцин</item>
+        <item>Zhongshan</item>
+        <item>Zhuhai</item>
+    </string-array>
+    <string-array name="ip_call_location_guangxi_cities">
+        <item>NanNing</item>
+        <item>百色</item>
+        <item>北海</item>
+        <item>防城港</item>
+        <item>贵港/玉林</item>
+        <item>桂林</item>
+        <item>河池</item>
+        <item>贺州/梧州</item>
+        <item>来宾/柳州</item>
+        <item>钦州</item>
+    </string-array>
+    <string-array name="ip_call_location_guizhou_cities">
+        <item>贵阳</item>
+        <item>安顺</item>
+        <item>毕节</item>
+        <item>六盘水</item>
+        <item>黔东南/凯里</item>
+        <item>黔南/都匀</item>
+        <item>黔西南/兴义</item>
+        <item>铜仁</item>
+        <item>遵义</item>
+    </string-array>
+    <string-array name="ip_call_location_hainan_cities">
+        <item>海口/三亚</item>
+    </string-array>
+    <string-array name="ip_call_location_hebei_cities">
+        <item>石家庄</item>
+        <item>保定</item>
+        <item>沧州</item>
+        <item>承德</item>
+        <item>邯郸</item>
+        <item>衡水</item>
+        <item>廊坊</item>
+        <item>秦皇岛</item>
+        <item>唐山</item>
+        <item>邢台</item>
+        <item>张家口</item>
+    </string-array>
+    <string-array name="ip_call_location_henan_cities">
+        <item>郑州</item>
+        <item>安阳</item>
+        <item>鹤壁</item>
+        <item>焦作</item>
+        <item>开封</item>
+        <item>洛阳</item>
+        <item>漯河</item>
+        <item>南阳</item>
+        <item>平顶山</item>
+        <item>濮阳</item>
+        <item>三门峡</item>
+        <item>商丘</item>
+        <item>新乡</item>
+        <item>信阳/潢川</item>
+        <item>许昌</item>
+        <item>周口</item>
+        <item>驻马店</item>
+    </string-array>
+    <string-array name="ip_call_location_heilongjiang_cities">
+        <item>哈尔滨</item>
+        <item>大庆</item>
+        <item>大兴安岭</item>
+        <item>鹤岗</item>
+        <item>黑河</item>
+        <item>鸡西</item>
+        <item>佳木斯</item>
+        <item>牡丹江</item>
+        <item>七台河</item>
+        <item>齐齐哈尔</item>
+        <item>双鸭山</item>
+        <item>绥化</item>
+        <item>伊春</item>
+    </string-array>
+    <string-array name="ip_call_location_hubei_cities">
+        <item>WuHan</item>
+        <item>鄂州</item>
+        <item>恩施</item>
+        <item>黄冈</item>
+        <item>黄石</item>
+        <item>荆门</item>
+        <item>荆州</item>
+        <item>江汉/仙桃</item>
+        <item>十堰</item>
+        <item>随州</item>
+        <item>咸宁</item>
+        <item>襄阳/襄樊</item>
+        <item>孝感</item>
+        <item>宜昌</item>
+    </string-array>
+    <string-array name="ip_call_location_hunan_cities">
+        <item>ChangSha</item>
+        <item>常德</item>
+        <item>郴州</item>
+        <item>衡阳</item>
+        <item>怀化</item>
+        <item>娄底</item>
+        <item>邵阳</item>
+        <item>湘西/吉首</item>
+        <item>益阳</item>
+        <item>永州</item>
+        <item>岳阳</item>
+        <item>张家界</item>
+    </string-array>
+    <string-array name="ip_call_location_jilin_cities">
+        <item>ChangChun</item>
+        <item>白城</item>
+        <item>白山</item>
+        <item>吉林</item>
+        <item>辽源</item>
+        <item>四平</item>
+        <item>松原</item>
+        <item>通化/梅河口</item>
+        <item>延边/延吉/珲春</item>
+    </string-array>
+    <string-array name="ip_call_location_jiangsu_cities">
+        <item>NanJing</item>
+        <item>常州</item>
+        <item>淮安</item>
+        <item>连云港</item>
+        <item>南通</item>
+        <item>宿迁</item>
+        <item>苏州</item>
+        <item>泰州</item>
+        <item>无锡</item>
+        <item>徐州</item>
+        <item>盐城</item>
+        <item>扬州</item>
+        <item>镇江</item>
+    </string-array>
+    <string-array name="ip_call_location_jiangxi_cities">
+        <item>NanChang</item>
+        <item>抚州</item>
+        <item>赣州</item>
+        <item>吉安</item>
+        <item>景德镇</item>
+        <item>九江</item>
+        <item>萍乡</item>
+        <item>上饶</item>
+        <item>新余</item>
+        <item>宜春</item>
+        <item>鹰潭</item>
+    </string-array>
+    <string-array name="ip_call_location_liaoning_cities">
+        <item>ShenYang</item>
+        <item>鞍山</item>
+        <item>本溪</item>
+        <item>朝阳</item>
+        <item>大连</item>
+        <item>丹东</item>
+        <item>阜新</item>
+        <item>葫芦岛</item>
+        <item>锦州</item>
+        <item>辽阳</item>
+        <item>盘锦</item>
+        <item>营口</item>
+    </string-array>
+    <string-array name="ip_call_location_neimenggu_cities">
+        <item>HuHeHaoTe</item>
+        <item>阿拉善盟</item>
+        <item>巴彦淖尔/临河</item>
+        <item>包头</item>
+        <item>赤峰</item>
+        <item>鄂尔多斯</item>
+        <item>呼伦贝尔/海拉尔</item>
+        <item>通辽</item>
+        <item>乌海</item>
+        <item>乌兰察布/集宁</item>
+        <item>锡林郭勒盟/锡林浩特</item>
+        <item>兴安盟/乌兰浩特</item>
+    </string-array>
+    <string-array name="ip_call_location_ningxia_cities">
+        <item>YinChuan</item>
+        <item>固原</item>
+        <item>石嘴山</item>
+        <item>吴忠</item>
+        <item>中卫</item>
+    </string-array>
+    <string-array name="ip_call_location_qinghai_cities">
+        <item>XiNing</item>
+        <item>格尔木</item>
+        <item>果洛</item>
+        <item>海北/海晏</item>
+        <item>海东</item>
+        <item>海南</item>
+        <item>海西/德令哈</item>
+        <item>黄南</item>
+        <item>玉树</item>
+    </string-array>
+    <string-array name="ip_call_location_shandong_cities">
+        <item>JiNan</item>
+        <item>滨州</item>
+        <item>德州</item>
+        <item>东营</item>
+        <item>菏泽</item>
+        <item>济宁</item>
+        <item>莱芜</item>
+        <item>聊城</item>
+        <item>临沂</item>
+        <item>青岛</item>
+        <item>日照</item>
+        <item>泰安</item>
+        <item>威海</item>
+        <item>潍坊</item>
+        <item>烟台</item>
+        <item>枣庄</item>
+        <item>淄博</item>
+    </string-array>
+    <string-array name="ip_call_location_shan1xi_cities">
+        <item>TaiYuan</item>
+        <item>长治</item>
+        <item>大同</item>
+        <item>晋城</item>
+        <item>晋中</item>
+        <item>临汾</item>
+        <item>吕梁</item>
+        <item>朔州</item>
+        <item>忻州</item>
+        <item>阳泉</item>
+        <item>运城</item>
+    </string-array>
+    <string-array name="ip_call_location_shan3xi_cities">
+        <item>XiAn</item>
+        <item>安康</item>
+        <item>宝鸡</item>
+        <item>汉中</item>
+        <item>商洛</item>
+        <item>铜川</item>
+        <item>渭南</item>
+        <item>延安</item>
+        <item>榆林</item>
+    </string-array>
+    <string-array name="ip_call_location_sichuan_cities">
+        <item>ChengDu</item>
+        <item>阿坝</item>
+        <item>巴中</item>
+        <item>达州</item>
+        <item>德阳</item>
+        <item>甘孜</item>
+        <item>广安</item>
+        <item>广元</item>
+        <item>乐山</item>
+        <item>凉山/西昌</item>
+        <item>泸州</item>
+        <item>绵阳</item>
+        <item>南充</item>
+        <item>内江</item>
+        <item>攀枝花</item>
+        <item>遂宁</item>
+        <item>雅安</item>
+        <item>宜宾</item>
+        <item>自贡</item>
+    </string-array>
+    <string-array name="ip_call_location_xizang_cities">
+        <item>LaSa</item>
+        <item>阿里</item>
+        <item>昌都</item>
+        <item>林芝</item>
+        <item>那曲</item>
+        <item>日喀则</item>
+        <item>山南</item>
+    </string-array>
+    <string-array name="ip_call_location_xinjiang_cities">
+        <item>WuLuMuQi</item>
+        <item>阿克苏</item>
+        <item>阿勒泰</item>
+        <item>巴音郭楞/库尔勒</item>
+        <item>博尔塔拉/博乐</item>
+        <item>昌吉</item>
+        <item>哈密</item>
+        <item>和田</item>
+        <item>喀什</item>
+        <item>克拉玛依</item>
+        <item>克州</item>
+        <item>奎屯</item>
+        <item>石河子</item>
+        <item>塔城</item>
+        <item>吐鲁番</item>
+        <item>伊犁</item>
+    </string-array>
+    <string-array name="ip_call_location_yunnan_cities">
+        <item>KungMing</item>
+        <item>Baoshan</item>
+        <item>Chuxiong</item>
+        <item>Dali</item>
+        <item>Dehong</item>
+        <item>Diqing</item>
+        <item>Red River</item>
+        <item>Lijiang</item>
+        <item>Lincang</item>
+        <item>Nujiang</item>
+        <item>Simao</item>
+        <item>Qujing</item>
+        <item>Wenshan</item>
+        <item>Xishuangbanna</item>
+        <item>Yuxi</item>
+        <item>Shao Tong</item>
+    </string-array>
+    <string-array name="ip_call_location_zhejiang_cities">
+        <item>HangZhou</item>
+        <item>Huzhou</item>
+        <item>Jiaxing</item>
+        <item>Jinhua</item>
+        <item>Lishui</item>
+        <item>Ningbo</item>
+        <item>Quzhou</item>
+        <item>Shaoxing</item>
+        <item>Taizhou</item>
+        <item>Wenzhou</item>
+        <item>Чжоушань</item>
+    </string-array>
+    <string-array name="contacts_privacy_settings_entries">
+        <item>Через сеть, чтобы найти свой номер в чате</item>
+        <item>Не может быть найден</item>
+    </string-array>
+    <string-array name="contacts_privacy_settings_entries_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="otherLabels">
+        <item>Organization</item>
+        <item>Заметка</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 секунда</item>
+        <item>2 секунды</item>
+        <item>3 секунды</item>
+        <item>4 секунды</item>
+        <item>5 секунд</item>
+        <item>6 секунд</item>
+        <item>7 секунд</item>
+        <item>8 секунд</item>
+        <item>9 секунд</item>
+        <item>10 секунд</item>
+        <item>Другое…</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Всегда</item>
+        <item>В реж. бесшумно</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="call_log_click_entries">
+        <item>Информация о звонке</item>
+        <item>Прямой набор</item>
+    </string-array>
+    <string-array name="call_log_click_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+</resources>

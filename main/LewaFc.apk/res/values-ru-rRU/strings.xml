@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="hello">Hello World, AndroidFcDemoActivity!</string>
+    <string name="app_name">Обратная связь</string>
+    <string name="log_layout_feedback_title">Обратная связь</string>
+    <string name="fc_window_log_title">Сообщение об ошибке:</string>
+    <string name="fc_window_reback">вернуть</string>
+    <string name="main_layout_feedback_title">обратная связь</string>
+    <string name="main_layout_system_log">Журнал системная проблема</string>
+    <string name="main_layout_text_default">На ваше усмотрение, можете добавить свой комментарий ...</string>
+    <string name="main_layout_send">отправить</string>
+    <string name="main_layout_len_default">0</string>
+    <string name="main_layout_len_KB">KB</string>
+    <string name="result_layout_feedback_title">обратная связь</string>
+    <string name="result_layout_thanks1">Благодарим Вас за помощь Le Frog,</string>
+    <string name="result_layout_thanks2">Мы будем продолжать работать!</string>
+    <string name="result_layout_thanks3">Мы с нетерпением ждем чтобы Вы стали свидетелем роста Le Frog.</string>
+    <string name="result_layout_continue_feedback">Продолжить</string>
+    <string name="result_layout_finish">Конец</string>
+    <string name="fc_sending_title">Пожалуйста, подождите</string>
+    <string name="fc_sending_message">Отчеты отправлены ...</string>
+    <string name="fc_sending_fail_title">Невозможно отправить</string>
+    <string name="fc_sending_fail_button">выбрать</string>
+    <string name="fc_sending_fail_message0">Запрашиваемый адрес изменился!</string>
+    <string name="fc_sending_fail_message1">Ваш запрос не легитимен!</string>
+    <string name="fc_sending_fail_message2">Ошибка сервера!</string>
+    <string name="fc_sending_fail_message3">Сообщение не может быть пустым!</string>
+    <string name="fc_sending_fail_message4">Установить соединение не удалось!</string>
+    <string name="fc_sending_fail_message5">Ошибка отправки, пожалуйста, отправьте отчет позже пожалуйста!</string>
+    <string name="fc_sending_process_connect">Устанавливается Соединение ...</string>
+    <string name="fc_sending_process_send_msg">Отправляется отчет...</string>
+    <string name="fc_sending_process_send_file">Передается файл...</string>
+    <string name="fc_sending_process_close">Прием инф. сервером...</string>
+    <string name="fc_log_result_title">Извините!</string>
+    <string name="fc_log_result_message">Ошибка программы</string>
+    <string name="fc_log_result_button">Отправить</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="folders">
+        <item>Новая папка</item>
+        <item>Игры</item>
+        <item>Инструменты</item>
+        <item>Социальные</item>
+    </string-array>
+    <string-array name="desktop_transition_effect_entries">
+        <item>Классическая</item>
+        <item>Обратная прокрутка</item>
+        <item>Куб</item>
+        <item>Переворот</item>
+        <item>Стек</item>
+    </string-array>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="hello">Hello World, AndroidAdviceDemoActivity!</string>
+    <string name="app_name">Обратная связь</string>
+    <string name="feedback_title">Обратная связь</string>
+    <string name="feedback_added">были добавлены</string>
+    <string name="feedback_text_default">Добавить комментарий ...</string>
+    <string name="feedback_send">отправить</string>
+    <string name="feedback_piclen_default">0</string>
+    <string name="feedback_tag_len">KB</string>
+    <string name="result_layout_feedback_title">Обратная связь</string>
+    <string name="result_layout_thanks1">Благодарим Вас за помощь Le Frog,</string>
+    <string name="result_layout_thanks2">Мы будем продолжать работать!</string>
+    <string name="result_layout_thanks3">Мы с нетерпением ждем чтобы Вы стали свидетелем роста Le Frog.</string>
+    <string name="result_layout_continue_feedback">Продолжить</string>
+    <string name="result_layout_finish">Конец</string>
+    <string name="feedback_sending_title">Пожалуйста, подождите</string>
+    <string name="feedback_sending_message">Ошибки отправляются ...</string>
+    <string name="feedback_sending_fail_title">Невозможно отправить</string>
+    <string name="feedback_sending_fail_button">Ошибка</string>
+    <string name="feedback_sending_fail_message">Ошибка сети!</string>
+    <string name="feedback_sending_fail_message0">Запрашиваемый адрес изменился!</string>
+    <string name="feedback_sending_fail_message1">Ваш запрос не легитимен!</string>
+    <string name="feedback_sending_fail_message2">Ошибка сервера!</string>
+    <string name="feedback_sending_fail_message3">Сообщение не может быть пустым!</string>
+    <string name="feedback_sending_fail_message4">Установить соединение не удалось!</string>
+    <string name="feedback_sending_fail_message5">Ошибка отправки, пожалуйста, отправьте отчет позже пожалуйста!</string>
+    <string name="feedback_sending_process_connect">Устанавливается Соединение ...</string>
+    <string name="feedback_sending_process_send_msg">Отправляется отчет...</string>
+    <string name="feedback_sending_process_send_file">Передается файл...</string>
+    <string name="feedback_sending_process_close">Прием инф. сервером...</string>
+    <string name="feedback_result_title">Извините!</string>
+    <string name="feedback_result_message">Ошибка программы</string>
+    <string name="feedback_result_button">Отправить</string>
+    <string name="feedback_addpic_title">Картинка для обратной связи </string>
+    <string name="feedback_addpic_delete">Удалить картинку</string>
+    <string name="feedback_addpic_change">Изменить картнку</string>
+    <string name="feedback_wifi_note">В настоящее время у Вас нет подключения через Wi-Fi, вы хотите отправить файла более 300 Кб (будет расход трафика). Вы уверены, что хотите это отправить?</string>
+</resources>
