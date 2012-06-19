@@ -62,8 +62,8 @@
     <string name="menu_answerAndHold">Удержать текущий вызов &amp; ответить</string>
     <string name="menu_answerAndEnd">Завершить текущий вызов &amp; ответить</string>
     <string name="ok">OK</string>
-    <string name="menuButtonHint">Нажмите меню для настройки вызовов.</string>
-    <string name="menuButtonKeyboardDialHint">Нажмите меню для настройки вызовов вЂў Использовать клавиатуру для звонков</string>
+    <string name="menuButtonHint">Нажмите меню для настройки вызовов</string>
+    <string name="menuButtonKeyboardDialHint">Нажмите меню для настройки вызовов  \u0020• \u0020Использовать клавиатуру для звонков</string>
     <string name="menu_answer">Ответить</string>
     <string name="menu_ignore">Сбросить</string>
     <string name="wait_prompt_str">Послать следующие тональные сигналы?</string>
@@ -452,7 +452,7 @@
     <string name="ota_progress">Пожалуйста, подождите, пока Ваш телефон программируется.</string>
     <string name="ota_failure">Программирование не удалось</string>
     <string name="ota_successful">Ваш телефон активирован. Это может занять до 15 минут на запуск службы.</string>
-    <string name="ota_unsuccessful">Ваш телефон не активирован. Возможно, вам придется найти место лучшего покрытия (около окна, или снаружи). Попробуйте снова или позвоните в службу поддержки.</string>
+    <string name="ota_unsuccessful">Ваш телефон не активирован.\nВозможно, вам придется найти место лучшего покрытия (около окна, или снаружи).\n\nПопробуйте снова или позвоните в службу поддержки.</string>
     <string name="ota_spc_failure">Ошибка доступа к SPC</string>
     <string name="ota_call_end">Назад</string>
     <string name="ota_try_again">Попробуйте снова</string>
@@ -515,7 +515,7 @@
     <string name="turn_silence_sum">Переверните для отключения звука</string>
     <string name="left_hand">Режим левши</string>
     <string name="left_hand_sum">Для использования левой руки, необходимо произвести перезагрузку.</string>
-    <string name="set_force_touch">In-call touch UI</string>
+    <string name="set_force_touch">Входящий нажмите UI</string>
     <string name="set_force_touch_sum">Использовать in-call touch UI без датчика приближения</string>
     <string name="rotate_incall">Включить датчик вращения</string>
     <string name="rotate_incall_sum">Разрешить экрану при вызове вращаться с изменением ориентации.</string>
@@ -693,4 +693,6 @@
     <string name="description_search_button">Поиск</string>
     <string name="description_dial_button">набор</string>
     <string name="description_delete_button">стереть</string>
+    <string name="automatic_recording">Авто запись</string>
+    <string name="automatic_recording_sum">При вход. звонке, вкл. автомат. запись разг.</string>
 </resources>

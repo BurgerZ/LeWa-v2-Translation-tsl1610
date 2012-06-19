@@ -90,7 +90,7 @@
     <string name="bluetooth_disconnecting">Отключение...</string>
     <string name="bluetooth_connecting">Подключение...</string>
     <string name="bluetooth_unknown" />
-    <string name="bluetooth_not_connected">Вместе с этим устройством</string>
+    <string name="bluetooth_not_connected">В паре с этим оборудованием</string>
     <string name="bluetooth_pairing">Сопряжение...</string>
     <string name="bluetooth_paired">Сопряжено, но не подключено</string>
     <string name="bluetooth_device">гарнитура/наушники</string>
@@ -106,7 +106,7 @@
     <string name="bluetooth_ask_enablement_and_discovery">Приложение на вашем телефоне запрашивает разрешение на включение Bluetooth и видимого режима на %1$d с. Разрешить?</string>
     <string name="bluetooth_ask_enablement_and_lasting_discovery">Приложение на телефоне запрашивает разрешение на включение режима постоянной видимости для других устройств с поддержкой Bluetooth. Разрешить?</string>
     <string name="bluetooth_turning_on">Включается Bluetooth...</string>
-    <string name="bluetooth_connection_permission_request">Запрос на Bluetooth соединение</string>
+    <string name="bluetooth_connection_permission_request">Запросы Bluetooth на соединение</string>
     <string name="bluetooth_connection_notif_message">Нажмите, чтобы подключиться к устройству \"%1$s\"</string>
     <string name="bluetooth_connection_dialog_text">Подключиться к устройству \"%1$s\"?</string>
     <string name="date_and_time">Настройки даты и времени</string>
@@ -120,9 +120,9 @@
     <string name="display_font_size_label">Размер шрифта:</string>
     <string name="intent_sender_data_label">Дата:</string>
     <string name="intent_sender_sendbroadcast_text">Отправить broadcast</string>
-    <string name="intent_sender_action_label">Action:</string>
+    <string name="intent_sender_action_label">Действие:</string>
     <string name="intent_sender_startactivity_text">Начать activity</string>
-    <string name="intent_sender_resource_label">Resource:</string>
+    <string name="intent_sender_resource_label">Ресурсы:</string>
     <string name="intent_sender_account_label">Аккаунт:</string>
     <string name="proxy_clear_text">Очистить</string>
     <string name="proxy_port_label">Порт</string>
@@ -409,20 +409,20 @@
     <string name="silent_mode_incl_alarm_summary">Все звуки, кроме аудио и видео, отключены</string>
     <string name="ringtone_title">Мелодия телефона</string>
     <string name="ringtone_summary" />
-    <string name="silence_ring_evert_phone_title">Откл. звука поворотом экрана</string>
+    <string name="silence_ring_evert_phone_title">Откл. звука при повороте телефона</string>
     <string name="silence_ring_evert_phone_summary">При повороте телефона экраном вниз, отключается звук и вибрация</string>
     <string name="soundtone_title">Звук сообщения</string>
     <string name="soundtone_summary" />
     <string name="all_volume_title">Звук</string>
     <string name="ring_volume_title">Громкость звонка</string>
     <string name="ring_volume_summary" />
-    <string name="vibrate_in_silent_title">Отключить вибрацию</string>
+    <string name="vibrate_in_silent_title">Вибрация откл.</string>
     <string name="vibrate_in_silent_summary">Разрешить вибрацию в режиме без звука</string>
     <string name="vibrate_title">Виброзвонок</string>
     <string name="vibrate_summary">Вибрация при входящих вызовах и оповещениях</string>
     <string name="notification_sound_title">Звук уведомления</string>
     <string name="notification_sound_summary" />
-    <string name="notification_pulse_title">Индикация уведомлений</string>
+    <string name="notification_pulse_title">Световая индикация</string>
     <string name="notification_pulse_summary">Включать мигание трекбола при получении новых уведомлений</string>
     <string name="notification_blink_title">Мигание кнопок</string>
     <string name="notification_blink_summary">Включать мигание кнопок при получении новых уведомлений</string>
@@ -506,7 +506,7 @@
     <string name="device_info_settings">Состояние телефона</string>
     <string name="system_update_settings_list_item_title">Обновления системы</string>
     <string name="system_update_settings_list_item_summary" />
-    <string name="cpu_info">Информация о ЦП</string>
+    <string name="cpu_info">О ЦПУ</string>
     <string name="mem_info">Память (доступно/всего)</string>
     <string name="firmware_version">Версия Android</string>
     <string name="model_number">Модель</string>
@@ -676,7 +676,7 @@
     <string name="lockpattern_change_lock_pin_label">Изменить ПИН-код разблокировки</string>
     <string name="lockpattern_need_to_unlock">Начертите существующий ключ</string>
     <string name="lockpattern_need_to_unlock_wrong">Извините, пожалуйста, попробуйте еще раз:</string>
-    <string name="lockpattern_recording_intro_header">Потяните для разблокировки</string>
+    <string name="lockpattern_recording_intro_header">Разблокировать</string>
     <string name="lockpattern_recording_intro_footer">Для справки нажмите \"Меню\".</string>
     <string name="lockpattern_recording_inprogress">По завершении отпустите палец.</string>
     <string name="lockpattern_recording_incorrect_too_short">Соедините точки (как минимум %d). Повторите попытку:</string>
@@ -836,7 +836,7 @@
     <string name="user_dict_settings_context_menu_edit_title">Изменить</string>
     <string name="user_dict_settings_context_menu_delete_title">Удалить</string>
     <string name="user_dict_settings_empty_text">В пользовательском словаре отсутствуют слова. Добавить слово можно с помощью меню.</string>
-    <string name="testing">Testing</string>
+    <string name="testing">Тест</string>
     <string name="testing_phone_info">Информация о телефоне</string>
     <string name="testing_battery_info">Информация о батарее</string>
     <string name="testing_battery_history">История использования батареи</string>
@@ -883,7 +883,7 @@
     <string name="battery_history_user_time">Использовано времени:</string>
     <string name="battery_history_system_time">Системное время:</string>
     <string name="battery_history_total_time">Общее время:</string>
-    <string name="battery_history_starts">Starts: %1$d дн.</string>
+    <string name="battery_history_starts">Начало: %1$d дн.</string>
     <string name="battery_history_days">%1$d дн. %2$d ч. %3$d мин. %4$d с.</string>
     <string name="battery_history_hours">%1$d ч. %2$d мин. %3$d с.</string>
     <string name="battery_history_minutes">%1$d мин. %2$d с.</string>
@@ -891,8 +891,8 @@
     <string name="battery_history_packages_sharing_this_uid">Одновременное Использование пакетов UID:</string>
     <string name="battery_history_no_data">Не использование батареи (зарядка от сети)</string>
     <string name="battery_history_sensor">Сенсор:</string>
-    <string name="battery_history_wakelock">Partial Wakelock:</string>
-    <string name="battery_history_used_by_packages">Sensor used by packages:</string>
+    <string name="battery_history_wakelock">Время ожидания:</string>
+    <string name="battery_history_used_by_packages">Счетчик используемых пакетов:</string>
     <string name="battery_history_sensor_usage">Использовано %1$d дн. времени by %2$s ч.</string>
     <string name="battery_history_sensor_usage_multi">Использовано %1$d дн. в режиме сна:</string>
     <string name="battery_history_awake_label">Использование</string>
@@ -1361,6 +1361,7 @@
     <string name="home_settings_title">Настройка Лаунчера</string>
     <string name="themes_settings_title">Темы</string>
     <string name="themes_wallpaper_title">Обои</string>
+    <string name="statusbar_switch_title">Быстрый доступ</string>
     <string name="pref_electron_beam_animation_on">Анимация включения</string>
     <string name="pref_electron_beam_animation_off">Анимация выключения</string>
     <string name="sound_settings_category_title">Звук</string>
@@ -1431,4 +1432,9 @@
     <string name="pref_render_effect_fuscia">Fuscia</string>
     <string name="pref_render_effect_calibrated">Калиброванный (№1)</string>
     <string name="pref_render_effect_red">Красный</string>
+    <string name="switchwidgetsettings_title">Пользовальские настройки</string>
+    <string name="switchwidgetsettings_switch_title">Доп. панель</string>
+    <string name="switchwidgetsettings_switch_on">открыть</string>
+    <string name="switchwidgetsettings_switch_off">закрыть</string>
+    <string name="switchwidgetsettings_notice_title">Доп. панель может сост. из 11 пунктов</string>
 </resources>
